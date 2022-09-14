@@ -1,6 +1,8 @@
 # examples
 A set of differentiable analysis examples.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gradhep/differentiable-analysis-examples/HEAD)
+
 ## setup
 
 Clone this repo, then in your virtual environment (Python 3.7+):
