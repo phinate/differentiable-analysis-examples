@@ -4,6 +4,6 @@ authors:
   - family-names: Simpson
     given-names: Nathan
     orcid: https://orcid.org/0000-0003-4188-8299
-title: phinate/differentiable-analysis-examples: PyHEP 2022
+title: phinate/differentiable-analysis-examples
 version: PyHEP2022
 date-released: 2022-09-30
