@@ -1,7 +1,7 @@
 # examples
 A set of differentiable analysis examples.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gradhep/differentiable-analysis-examples/HEAD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7129991.svg)](https://doi.org/10.5281/zenodo.7129991)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gradhep/differentiable-analysis-examples/HEAD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7129990.svg)](https://doi.org/10.5281/zenodo.7129990)
 
 
 ## setup
