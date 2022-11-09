@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Simpson
+    given-names: Nathan
+    orcid: https://orcid.org/0000-0003-4188-8299
+title: phinate/differentiable-analysis-examples: PyHEP 2022
+version: PyHEP2022
+date-released: 2022-09-30
